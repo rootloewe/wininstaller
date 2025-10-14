@@ -1,0 +1,12 @@
+src/versuch_basestr/
+.venv
+.vscode
+test.py
+dist
+build.bat
+nuitka.bat
+src/__pycache__/
+certifi_.py
+icon.ico
+main.zip
+pyrightconfig.json

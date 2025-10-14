@@ -21,8 +21,8 @@ wininstaller.exe herunterladen und dein Programm als main.zip im selben Verzeich
 | Windows                                                                                                                                  |
 |------------------------------------------------------------------------------------------------------------------------------------------|
 | <img src="./logos/windows.png" width="100" alt="Windows">                                                                                |
-| [ZIP-Archiv](https://github.com/rootloewe/wininstaller/releases/download/2.5.4/wininsteller.exe)<br>(x86_64)                             |
-|                                                                                                                                          |
+| [EXE](https://github.com/rootloewe/wininstaller/releases/download/2.5.4/wininstaller.exe)<br>(x86_6)                                     |
+| [zip](https://github.com/rootloewe/wininstaller/releases/download/2.5.4/wininstaller.zip)<br>(x86_6)                                     |
 
 
 ## Lizenz
