@@ -1,4 +1,4 @@
-# Parced ZUGFeRD Dateien
+# Winninstaller
 Installiert in Windows ein main.zip im selben Verzeichnis wie diese exe und erstellt wahlweise Desktop link und Menueintrag.
 Deinstallation ist ebenfalls möglich
 Graphische Oberfläche wurde mit tkinter gebaut
@@ -13,8 +13,8 @@ Stelle sicher, dass Python 3 und alle Requirements installiert ist:
 pip install -r requirements.txt
 
 ## Install
-wininstaller.exe herunterladen und dein Programm als main.zip im selben Verzeichnis bereitstellen.
-
+wininstaller.exe herunterladen und ihr Programm als main.zip im selben Verzeichnis bereitstellen.
+im nächsten Release, kann man ihr programm eintragen und eine Umbenennung ist nicht mehr nötig
 
 ## Download
 
